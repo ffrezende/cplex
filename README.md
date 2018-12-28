@@ -1,6 +1,6 @@
 # Como executar?
 
-Passo-a-passo para a execução desse trem:
+Passo-a-passo para a execução:
 
 1. Criar arquivo `.txt` de dados aleatórios
     * `python program1.py`
